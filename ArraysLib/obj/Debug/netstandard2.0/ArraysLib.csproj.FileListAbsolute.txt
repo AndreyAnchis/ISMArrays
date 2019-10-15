@@ -1,0 +1,9 @@
+D:\лабы\ISM\ISMArrays\ArraysLib\bin\Debug\netstandard2.0\ArraysLib.deps.json
+D:\лабы\ISM\ISMArrays\ArraysLib\bin\Debug\netstandard2.0\ArraysLib.dll
+D:\лабы\ISM\ISMArrays\ArraysLib\bin\Debug\netstandard2.0\ArraysLib.pdb
+D:\лабы\ISM\ISMArrays\ArraysLib\obj\Debug\netstandard2.0\ArraysLib.csprojAssemblyReference.cache
+D:\лабы\ISM\ISMArrays\ArraysLib\obj\Debug\netstandard2.0\ArraysLib.csproj.CoreCompileInputs.cache
+D:\лабы\ISM\ISMArrays\ArraysLib\obj\Debug\netstandard2.0\ArraysLib.AssemblyInfoInputs.cache
+D:\лабы\ISM\ISMArrays\ArraysLib\obj\Debug\netstandard2.0\ArraysLib.AssemblyInfo.cs
+D:\лабы\ISM\ISMArrays\ArraysLib\obj\Debug\netstandard2.0\ArraysLib.dll
+D:\лабы\ISM\ISMArrays\ArraysLib\obj\Debug\netstandard2.0\ArraysLib.pdb

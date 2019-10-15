@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Arrays1/1.0.0": {
+        "dependencies": {
+          "ArraysLib": "1.0.0"
+        },
+        "runtime": {
+          "Arrays1.dll": {}
+        }
+      },
+      "ArraysLib/1.0.0": {
+        "runtime": {
+          "ArraysLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArraysLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

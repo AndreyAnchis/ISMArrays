@@ -1,0 +1,14 @@
+D:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.csprojAssemblyReference.cache
+D:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.csproj.CoreCompileInputs.cache
+D:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.AssemblyInfoInputs.cache
+D:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.AssemblyInfo.cs
+D:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\Arrays1.deps.json
+D:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\Arrays1.runtimeconfig.json
+D:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\Arrays1.runtimeconfig.dev.json
+D:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\Arrays1.dll
+D:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\Arrays1.pdb
+D:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.dll
+D:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.pdb
+d:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\ArraysLib.dll
+d:\лабы\ISM\ISMArrays\Arrays1\bin\Debug\netcoreapp2.1\ArraysLib.pdb
+d:\лабы\ISM\ISMArrays\Arrays1\obj\Debug\netcoreapp2.1\Arrays1.csproj.CopyComplete
